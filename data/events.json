@@ -1,0 +1,81 @@
+[
+  {
+    "id": "singing",
+    "title": "Singing Competition",
+    "icon": "mic",
+    "type": "On-Site",
+    "emoji": "🎤",
+    "description": "Group worship performance celebrating faith through song in Tamil or English.",
+    "rules": [
+      "Group participation only (minimum 5 participants).",
+      "Maximum performance time: 7 minutes (including mic check and setup).",
+      "Songs must align with Christian values and the ASCEND 2026 theme.",
+      "Languages: Tamil or English.",
+      "Keyboard, Drum Pad, and Guitar will be provided."
+    ]
+  },
+  {
+    "id": "character-portrayal",
+    "title": "Character Portrayal",
+    "icon": "theater",
+    "type": "On-Site",
+    "emoji": "🎭",
+    "description": "Bring a Biblical character to life and connect their story to the theme of RENEW.",
+    "rules": [
+      "Maximum 3 participants per team.",
+      "Portray a Biblical character relevant to the ASCEND 2026 theme.",
+      "Presentation must not exceed 7 minutes.",
+      "Appropriate costumes and props are permitted.",
+      "Explain the character and its relevance to the theme."
+    ]
+  },
+  {
+    "id": "short-film",
+    "title": "Short Film Competition",
+    "icon": "film",
+    "type": "Online",
+    "emoji": "🎬",
+    "description": "Create a powerful short film that communicates the message of transformation and renewal.",
+    "rules": [
+      "Based on the ASCEND 2026 theme.",
+      "Maximum duration: 5 minutes.",
+      "Must promote Christian values and originality.",
+      "Record using a mobile phone.",
+      "Filters/visual effects are not permitted.",
+      "Submit on or before August 2."
+    ]
+  },
+  {
+    "id": "hand-painting",
+    "title": "Hand Painting",
+    "icon": "palette",
+    "type": "On-Site",
+    "emoji": "🎨",
+    "description": "Express the theme of RENEW through creative hand-painted artwork created live on-site.",
+    "rules": [
+      "Artwork must be based on the ASCEND 2026 theme.",
+      "Duration: 30 minutes.",
+      "Materials will be provided by the Host Church.",
+      "Artwork must be created during the competition."
+    ]
+  },
+  {
+    "id": "bible-quiz",
+    "title": "Bible Quiz",
+    "icon": "book-open",
+    "type": "On-Site",
+    "emoji": "📖",
+    "description": "Test your knowledge of the Book of Proverbs in an interactive team quiz competition.",
+    "rules": [
+      "Team Size: 3 Participants.",
+      "Duration: 1 Hour.",
+      "Bible Portion: Book of Proverbs (Full Book).",
+      "Questions will be based on the prescribed Bible portion.",
+      "Multiple interactive rounds.",
+      "Detailed format and scoring will be explained before the competition.",
+      "Use of mobile phones, smart watches, Bibles, or reference materials is prohibited.",
+      "Violation will result in immediate disqualification.",
+      "Quiz Master's and Judges' decision is final."
+    ]
+  }
+]

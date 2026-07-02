@@ -1,0 +1,85 @@
+{
+  "eventName": "ASCEND 2026",
+  "theme": "RENEW",
+  "bibleVerse": {
+    "reference": "Romans 12:2",
+    "translation": "NIV",
+    "full": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is — His good, pleasing and perfect will.",
+    "tagline": "Be transformed by the renewing of your mind.",
+    "sentences": [
+      "Do not conform to the pattern of this world, but be transformed by the renewing of your mind.",
+      "Then you will be able to test and approve what God's will is — His good, pleasing and perfect will."
+    ]
+  },
+  "venue": {
+    "name": "C.S.I St. Andrew's Church",
+    "address": "Gandhi Street, Guduvancheri, Chennai, Tamil Nadu, India",
+    "fullAddress": "C.S.I St. Andrew's Church, Gandhi Street, Guduvancheri, Chennai, Tamil Nadu, India",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=C.S.I+St.+Andrew's+Church,+Gandhi+Street,+Guduvancheri,+Chennai,+Tamil+Nadu,+India",
+    "embedUrl": "https://maps.google.com/maps?q=C.S.I+St.+Andrew's+Church,+Gandhi+Street,+Guduvancheri,+Chennai,+Tamil+Nadu,+India&output=embed"
+  },
+  "contacts": [
+    {
+      "name": "Rev. P. Christu Adiyan",
+      "role": "Presbyter In-charge",
+      "phone": "9487439922"
+    },
+    {
+      "name": "Mr. Arun Abhilash",
+      "role": "Ascend Director",
+      "phone": "9791431243"
+    },
+    {
+      "name": "Ms. Perlin Jenifer",
+      "role": "Ascend Director",
+      "phone": "9962990856"
+    }
+  ],
+  "social": {
+    "instagram": {
+      "handle": "@CSI_ANDREWS_CHURCH",
+      "url": "https://www.instagram.com/csi_andrews_church/"
+    }
+  },
+  "guidelines": [
+    "The competitions are open to invited churches only.",
+    "Registration will be open from 8:00 AM to 9:00 AM.",
+    "Please arrive on time and adhere to the event schedule.",
+    "Cooperate with the ASCEND Volunteer Team and maintain proper decorum throughout the event.",
+    "Any inappropriate behavior or violation of the rules may result in immediate disqualification.",
+    "The decisions of the Judges and the Organizing Committee will be final.",
+    "Participants must be between 18 and 35 years of age.",
+    "Please confirm your participation by completing the online registration form on or before July 19.",
+    "All online event submissions must be completed on or before August 2."
+  ],
+  "about": {
+    "story": "ASCEND is an annual inter-church youth event where churches come together to participate in various competitions, fellowship, worship, and spiritual growth. More than a gathering, it is a movement of young believers rising together in faith, unity, and purpose.",
+    "purposes": [
+      {
+        "title": "Unite Young Believers",
+        "description": "Bringing together youth from invited churches to worship and grow as one body in Christ."
+      },
+      {
+        "title": "Encourage God-Given Talents",
+        "description": "Celebrating creativity, skill, and passion through competitions that honor God."
+      },
+      {
+        "title": "Promote Fellowship",
+        "description": "Building lasting friendships and connections across church communities."
+      },
+      {
+        "title": "Build Faith",
+        "description": "Deepening spiritual understanding through God's Word and shared worship."
+      },
+      {
+        "title": "Glorify God",
+        "description": "Every moment, every talent, every heart — dedicated to the glory of our Lord."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Transformation begins with one step.",
+    "subtext": "RENEW isn't just our theme.\nIt's God's invitation to every heart.",
+    "buttonText": "See You at ASCEND 2026"
+  }
+}

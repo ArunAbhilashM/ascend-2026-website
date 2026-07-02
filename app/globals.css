@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #050505;
+  --secondary: #101010;
+  --gold: #d4af37;
+  --gold-bright: #ffd700;
+  --white: #ffffff;
+  --soft-gray: #dadada;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--white);
+  font-family: var(--font-inter), sans-serif;
+  overflow-x: hidden;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@layer components {
+  .glass-panel {
+    @apply rounded-2xl border border-white/10 bg-white/5 backdrop-blur-xl;
+  }
+
+  .gold-glow {
+    box-shadow: 0 0 40px rgba(212, 175, 55, 0.15),
+      0 0 80px rgba(212, 175, 55, 0.05);
+  }
+
+  .text-gradient-gold {
+    @apply bg-gradient-to-r from-gold via-gold-bright to-gold bg-clip-text text-transparent;
+  }
+
+  .btn-primary {
+    @apply font-button rounded-full border border-gold/40 bg-gold/10 px-8 py-3 text-sm font-medium uppercase tracking-widest text-gold transition-all duration-300 hover:border-gold hover:bg-gold/20 hover:shadow-[0_0_30px_rgba(212,175,55,0.3)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gold;
+  }
+
+  .btn-secondary {
+    @apply font-button rounded-full border border-white/20 bg-white/5 px-8 py-3 text-sm font-medium uppercase tracking-widest text-white transition-all duration-300 hover:border-white/40 hover:bg-white/10 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white;
+  }
+
+  .section-padding {
+    @apply px-6 py-24 md:px-12 lg:px-20 lg:py-32;
+  }
+
+  .section-title {
+    @apply font-heading text-4xl font-light tracking-wider text-white md:text-5xl lg:text-6xl;
+  }
+
+  .section-subtitle {
+    @apply font-display mt-4 text-xl text-gold md:text-2xl;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--gold);
+  border-radius: 3px;
+}
+
+::selection {
+  background: rgba(212, 175, 55, 0.3);
+  color: var(--white);
+}
