@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     title: "ASCEND 2026 | RENEW",
     description:
       "Be transformed by the renewing of your mind. Join ASCEND 2026 — an annual inter-church youth event.",
-    images: ["/logo.png"],
+    images: ["/renew_logo.png"],
     type: "website",
   },
 };

@@ -97,7 +97,7 @@ export default function LoadingScreen({ onEnter }: LoadingScreenProps) {
       <div ref={logoRef} className="relative z-10 mb-8 opacity-0">
         <div className="gold-glow relative">
           <Image
-            src="/logo.png"
+            src="/renew_logo.png"
             alt="ASCEND 2026 RENEW Logo"
             width={200}
             height={200}
