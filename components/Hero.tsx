@@ -34,8 +34,8 @@ export default function Hero() {
         >
           <div className="gold-glow relative">
             <Image
-              src="/Renew-Logo 2.png"
-              alt="ASCEND 2026 RENEW Eagle Logo"
+              src="/renew_logo.png"
+              alt="ASCEND 2026 RENEW Logo"
               width={280}
               height={280}
               className="h-40 w-auto object-contain md:h-56 lg:h-64"
