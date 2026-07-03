@@ -34,7 +34,7 @@ export default function Hero() {
         >
           <div className="gold-glow relative">
             <Image
-              src="/logo.png"
+              src="/Renew-Logo 2.png"
               alt="ASCEND 2026 RENEW Eagle Logo"
               width={280}
               height={280}
