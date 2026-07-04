@@ -77,5 +77,16 @@
       "Violation will result in immediate disqualification.",
       "Quiz Master's and Judges' decision is final."
     ]
-  }
+  },
+  {
+  "id": "ascend-special",
+  "title": "ASCEND Special",
+  "icon": "sparkles",
+  "type": "On-Site",
+  "emoji": "🎯",
+  "description": "Experience exciting surprise games and team challenges designed to test your teamwork, creativity, and coordination.",
+  "rules": [
+    "The game format, rules, and instructions will be revealed just before the competition begins."
+  ]
+}
 ]
